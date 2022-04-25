@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Coin</string>
+    <string name="please_log_in">Please Log In</string>
+    <string name="welcome_to_fiche">Welcome to FICHE</string>
+    <string name="log_in">Log in</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="no_account_register_now">No Account? Register Now!</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="have_your_account_log_in_now">Have Your Account? Log in Now!</string>
+    <string name="register">REGISTER</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
